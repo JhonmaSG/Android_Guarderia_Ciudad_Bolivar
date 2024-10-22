@@ -13,7 +13,7 @@
         android:theme="@style/Theme.GuarderiaCiudadBolivar"
         tools:targetApi="31">
         <activity
-            android:name=".ExpenseSummaryActivity"
+            android:name=".HistorialChildrenActivity"
             android:exported="false" />
         <activity
             android:name=".DailyRecordActivity"
@@ -22,13 +22,13 @@
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
-            android:name=".PaymentActivity"
+            android:name=".PagosActivity"
             android:exported="false" />
         <activity
-            android:name=".AuthorizedPersonsActivity"
+            android:name=".CreditosActivity"
             android:exported="false" />
         <activity
-            android:name=".ChildrenActivity"
+            android:name=".InscripcionChildrenActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
